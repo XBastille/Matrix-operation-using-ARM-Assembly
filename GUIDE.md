@@ -109,4 +109,4 @@ Result Matrix:
   - Check if you entered the matrices correctly
   - Try using small test matrices with known results
 
-For installation instructions, refer to [INSTALLATION.md](INSTALLATION.MD).
+For installation instructions, refer to [INSTALLATION.md](INSTALLATION.md).
