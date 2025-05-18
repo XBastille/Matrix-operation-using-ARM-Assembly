@@ -50,3 +50,6 @@ If you encounter issues during installation:
 - Try reinstalling in the recommended order
 
 For more detailed help, refer to the [official Keil documentation](https://www.keil.com/support/man/docs/uv4/) or open an issue in this repository.
+
+
+For the guide on how to run the program, refer to [GUIDE.md](GUIDE.md).
