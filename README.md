@@ -61,8 +61,6 @@ The program configures UART0 at 9600 baud to:
 ## Repository Contents
 
 - matrix.asm: Main assembly source code
-- `executable/`: Pre-built binaries for direct flashing
-- `docs/`: Additional documentation
 
 ## Usage
 
