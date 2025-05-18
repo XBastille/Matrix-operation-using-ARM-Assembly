@@ -64,7 +64,7 @@ The program configures UART0 at 9600 baud to:
 
 ## Usage
 
-For detailed usage instructions, see [GUIDE.md](guide.md).
+For detailed usage instructions, see [GUIDE.md](GUIDE.md).
 
 To install the development environment and tools, refer to [INSTALLATION.md](INSTALLATION.md).
 
