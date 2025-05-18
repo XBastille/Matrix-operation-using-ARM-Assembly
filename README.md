@@ -78,5 +78,8 @@ For detailed usage instructions, see [GUIDE.md](GUIDE.md).
 
 ## Acknowledgments
 
-- ARM Limited for the ARM architecture
-- NXP Semiconductors for the LPC2148 microcontroller
+- http://scinews.kpi.ua/article/view/205115
+- https://www.gadgetronicx.com/programming-uart-tutorial-arm7/
+- https://ijiet.org/papers/142-T039.pdf
+- https://developer.arm.com/documentation/102159/0400/Matrix-multiplication
+- https://stackoverflow.com/questions/61213188/rewritting-c-matrix-multiplication-to-arm64-assembly
