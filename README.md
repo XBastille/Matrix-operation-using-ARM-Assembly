@@ -4,8 +4,6 @@
 
 This project implements a 3x3 matrix calculator for the LPC2148 microcontroller using ARM assembly language. It performs matrix addition, subtraction, and multiplication through a UART-based user interface.
 
-![Matrix Calculator Demo]
-
 ## Features
 
 - Full 3x3 matrix operations (addition, subtraction, multiplication)
