@@ -22,7 +22,7 @@ This guide will walk you through creating a matrix calculator project in Keil µ
    - **Target 1**
       - **Source Group 1**
       - **Startup Code**
-
+> NOTE: REMOVE startup.s
 3. Right-click on **Source Group 1** and select **Add New Item to Group**
 4. Select **Asm File** and name it matrix.asm
 5. Copy the complete source code from the repository to this file
